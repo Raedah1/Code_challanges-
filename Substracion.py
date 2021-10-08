@@ -1,4 +1,4 @@
-  
+ 
 def substraction(n_1 , n_2):
     # Using two's complement method
     two_com = (~n_2 + 1)
